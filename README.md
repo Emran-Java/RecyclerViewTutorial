@@ -1,20 +1,19 @@
 RecyclerView tutorial:
-Create a List with RecyclerView
-YouTube: https://youtu.be/Pcde5iAXLxI
-------------------------
-Helping source:
-https://developer.android.com/guide/topics/ui/layout/recyclerview
+<br>Create a List with RecyclerView
+<br>YouTube: https://youtu.be/Pcde5iAXLxI
+<br>------------------------
+<br>Helping source:
+<br>https://developer.android.com/guide/topics/ui/layout/recyclerview
+<br>
+<br>additional:
+<br>https://developer.android.com/guide/topics/ui/layout/cardview
+<br>
+<br>1. Add 
+<br>implementation 'com.android.support:recyclerview-v7:28.0.0' for dependencies
+<br>
+<br>additional: 
+<br>implementation 'com.android.support:cardview-v7:28.0.0'
 
-additional:
-https://developer.android.com/guide/topics/ui/layout/cardview
-
-1. Add 
-implementation 'com.android.support:recyclerview-v7:28.0.0' for dependencies
-
-additional:
-    implementation 'com.android.support:cardview-v7:28.0.0'
-
-}
 2. Add RecyclerView widget in layout
 3. Add LayoutManager/GridLayoutManager in Activity class
 4. Creat custom RecyclerView Adapter
