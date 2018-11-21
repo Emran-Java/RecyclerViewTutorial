@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">RecyclerViewTutorial</string>
+
+    <!--Create demo data source-->
+    <!--Title-->
+    <string-array name="demoDataList">
+        <item>Data 1</item>
+        <item>Data 2</item>
+        <item>Data 3</item>
+        <item>Data 4</item>
+        <item>Data 6</item>
+        <item>Data 7</item>
+        <item>Data 8</item>
+        <item>Data 9</item>
+        <item>Data 10</item>
+    </string-array>
+
+
+    <!--Sub title-->
+    <string-array name="demoSubDataList">
+        <item>Sub title Data 1</item>
+        <item>Sub title Data 2</item>
+        <item>Sub title Data 3</item>
+        <item>Sub title Data 4</item>
+        <item>Sub title Data 6</item>
+        <item>Sub title Data 7</item>
+        <item>Sub title Data 8</item>
+        <item>Sub title Data 9</item>
+        <item>Sub title Data 10</item>
+    </string-array>
+
+</resources>
